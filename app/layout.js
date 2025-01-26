@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Create Next App",
+  title: "Harmony Support",
   description: "Harmony Support LLC provides compassionate, person-centered support services to individuals with disabilities in New Jersey.",
 };
 
