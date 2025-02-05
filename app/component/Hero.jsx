@@ -9,14 +9,14 @@ const Hero = () => {
           Your Path to Empowered Living
         </h1>
         <p className="text-xl text-gray-600 mb-8">
-          We provide compassionate, person-centered support services to individuals with disabilities in New Jersey.
+          We provide compassionate, person-centered support services to individuals with developmental and intellectual   disabilities in New Jersey.
         </p>
         <div className="mb-8">
           <Image 
             src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=800&auto=format&fit=crop&q=80" 
             alt="Caregiver supporting an individual with daily activities" 
             className="rounded-lg shadow-lg mx-auto"
-            width={533}
+            width={800}
             height={200}
 
           />
