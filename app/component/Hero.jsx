@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section className="pt-24 pb-12 bg-gray-50 bg-gradient-to-br from-primary/5 to-secondary/5">
     <div className="container mx-auto px-4 py-16">
-      <div className="max-w-4xl mx-auto text-center">
+      <div className="max-w-4xl  text-center">
         <h1 className="text-5xl font-bold text-gray-900 mb-6">
           Your Path to Empowered Living
         </h1>
@@ -15,9 +15,9 @@ const Hero = () => {
           <Image 
             src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=800&auto=format&fit=crop&q=80" 
             alt="Caregiver supporting an individual with daily activities" 
-            className="rounded-lg shadow-lg mx-auto"
-            width={800}
-            height={200}
+            className="rounded-lg shadow-lg "
+            width={1000}
+            height={800}
 
           />
         </div>
